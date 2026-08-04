@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TanushBoddula</h1>
+<h1 align="center">Hi 👋, I'm Tanush Boddula</h1>
 
 <h3 align="center">
 🚀 AI & Machine Learning Enthusiast | Python Developer | Generative AI Learner
@@ -24,11 +24,11 @@
 
 <p align="left">
 
-<a href="https://github.com/TanushBoddula2004">
+<a href="https://github.com/Tanush Boddula2004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkdin.com/in/tanush-boddula-13100b317">
+<a href="www.linkedin.com/in/tanush-boddula-13100b317">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -62,19 +62,57 @@
 
 ---
 
+# 🚀 Featured Project
+
+## 🎙️ Speech Emotion Recognition using Machine Learning
+
+### Features
+
+- 🎤 Audio Emotion Detection
+- 🤖 Support Vector Machine (SVM)
+- 📊 Confidence Score
+- 📈 Interactive Plotly Charts
+- 🌐 Streamlit Web Application
 
 ### Technologies
 
 Python • Streamlit • Librosa • Scikit-learn • Pandas • NumPy
 
----
+🔗 Repository:
+
+https://github.com/SrikanthKanumuri09/Speech-Emotion-Recognition
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SrikanthKanumuri09&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikanthKanumuri09&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
+# 🔥 GitHub Streak
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TanushBoddula2004&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TanushBoddula2004&theme=tokyonight&row=2&column=4"/>
+
+</p>
 
 ---
 
@@ -87,6 +125,7 @@ Python • Streamlit • Librosa • Scikit-learn • Pandas • NumPy
 </p>
 
 ---
+
 # 🏅 Certifications
 
 - AI & Machine Learning Internship
@@ -122,4 +161,4 @@ Python • Streamlit • Librosa • Scikit-learn • Pandas • NumPy
 
 ⭐ Thanks for visiting my profile ⭐
 
-</p># TanushBoddula2004
+</p>
