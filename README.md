@@ -81,9 +81,12 @@ Python • Streamlit • Librosa • Scikit-learn • Pandas • NumPy
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushBoddula2004&theme=tokyo-night"/>
-
+  <a href="https://github.com/TanushBoddula2004">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=TanushBoddula2004&theme=tokyo-night"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
 </p>
 
 ---
